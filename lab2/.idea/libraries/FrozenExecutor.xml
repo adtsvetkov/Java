@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FrozenExecutor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/FrozenExecutor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

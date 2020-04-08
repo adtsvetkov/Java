@@ -1,0 +1,11 @@
+writer = writerconfig.txt
+reader = readerconfig.txt
+executor = com.company.FirstExecutor
+executorsconfig = config.txt
+executor = DamaskinskiyLZWExecutor
+executorsconfig = compress.cfg
+executor = DamaskinskiyLZWExecutor
+executorsconfig = decompress.cfg
+executor = com.company.FirstExecutor
+executorsconfig = config.txt
+threadnumber = 2

@@ -1,0 +1,11 @@
+writer = writerconfig.txt
+reader = readerconfig.txt
+executor = com.company.mypipeline.FirstExecutor
+executorsconfig = config.txt
+executor = ru.spbstu.frozen.FrozenExecutor
+executorsconfig = frozen_conf.txt
+executor = ru.spbstu.frozen.FrozenExecutor
+executorsconfig = frozen_conf.txt
+executor = com.company.mypipeline.FirstExecutor
+executorsconfig = config.txt
+

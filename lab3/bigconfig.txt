@@ -1,0 +1,6 @@
+writer = writerconfig.txt
+reader = readerconfig.txt
+executor = DamaskinskiyLZWExecutor
+executorsconfig = compress.cfg
+executor = DamaskinskiyLZWExecutor
+executorsconfig = decompress.cfg
