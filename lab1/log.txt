@@ -1,0 +1,2 @@
+ноя 09, 2019 4:56:53 PM com.company.MyLogger writeToLogger
+SEVERE: #11 Process finished

@@ -1,0 +1,4 @@
+INPUT_FILE = text2.txt
+OUTPUT_FILE = text3.txt
+LOG_FILE = log.txt
+ACTION = decompress
