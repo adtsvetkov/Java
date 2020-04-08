@@ -1,5 +1,8 @@
-Реализован конвейер на интерфейсе `interface` с выбором типа данных, которыми будут обмениваться работники: byte[], char[], String.  
-Подробная информация о лабе [тут](https://github.com/winter-yuki/spbstu-amd-java/blob/master/LAB3.md).
+Реализован конвейер на интерфейсе `interface` с выбором типа данных, которыми будут обмениваться работники: byte[], char[], String.   
+Написано на [этих](https://github.com/kystyn/java/tree/master/pipeline#lab-3) требованиях.
+
+
+Подробная [новая] информация о лабе [тут](https://github.com/winter-yuki/spbstu-amd-java/blob/master/LAB3.md).
 
 
 У Кости что-то крашится на файлах с разнообразием символов, а так работает :)
