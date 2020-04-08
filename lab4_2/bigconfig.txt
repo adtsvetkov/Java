@@ -1,0 +1,11 @@
+writer = writerconfig.txt
+reader = readerconfig.txt
+executorsnumber = 1
+executor = com.company.FirstExecutor
+executorsconfig = config.txt
+executorsnumber = 1
+executor = com.company.SecondExecutor
+executorsconfig = config.txt
+executorsnumber = 1
+executor = com.company.ThirdExecutor
+executorsconfig = config.txt
