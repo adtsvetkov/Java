@@ -1,2 +1,5 @@
 Реализован конвейер с многопоточностью (параллельной обработкой данных в разных потоках) на интерфейсе `interface`. Потоки создаются единожды в менеджере для каждого работника и ждут нового куска данных и сообщении о конце файла.  
-Подробнее о лабе [тут](https://github.com/winter-yuki/spbstu-amd-java/blob/master/LAB4.md).
+
+Написано на [этих](https://github.com/kystyn/java/tree/master/pipeline#lab-4) требованиях.
+
+Подробная читабельная [новая] информация о лабе [тут](https://github.com/winter-yuki/spbstu-amd-java/blob/master/LAB4.md).
